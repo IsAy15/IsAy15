@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 Je travaille actuellement sur rien<br>👯 Je cherche à collaborer sur des projets js<br>🌱 J'apprend le java<br>📫 Mon discord : @adrien.mln_<br>⚡ Fun fact : faudrait que je change ma photo
+🔭 Je travaille actuellement sur rien<br>👯 Je cherche à collaborer sur des projets py<br>🌱 J'apprend le java<br>📫 Mon discord : @adrien.mln_<br>⚡ Fun fact : faudrait que je change ma photo
 
 
 ## 🌐 Socials:
